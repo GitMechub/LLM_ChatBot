@@ -40,6 +40,8 @@ https://github.com/marketplace/models
 
 ## Limits (Free Account):
 
+https://docs.github.com/en/github-models/prototyping-with-ai-models#rate-limits
+
   '''
             )
 
