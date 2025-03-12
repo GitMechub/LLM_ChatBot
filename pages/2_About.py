@@ -28,7 +28,7 @@ hide_menu = '''
 st.markdown(hide_menu, unsafe_allow_html=True)
 
 st.header("Tutorial: Get your free API key", divider="gray", anchor=False)
-st_player("https://youtu.be/SMm36mVPtyY")
+st_player("https://youtu.be/N25rt8F0RPc")
 
 st.markdown('''
 ## About:
