@@ -80,7 +80,7 @@ with st.expander("Get your free API key first", expanded=True):
         img_ai = Image.open(my_file1)
 
 
-    api_key = st.text_input("API Key", key='st_api_key')
+    api_key = st.text_input("API Key", type="password", key='st_api_key')
 
     data_limits = {
         "Metric": [
